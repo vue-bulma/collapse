@@ -1,0 +1,24 @@
+{
+  "name": "vue-bulma-collapse",
+  "version": "1.0.0",
+  "description": "Collapse component for Vue Bulma",
+  "main": "src/index.js",
+  "devDependencies": {
+    "bulma": "0.1.0",
+    "vue": "1.0.26"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/vue-bulma/collapse.git",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-collapse",
+    "collapse"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT"
+}
