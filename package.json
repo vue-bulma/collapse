@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-collapse",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Collapse component for Vue Bulma",
   "main": "src/index.js",
   "devDependencies": {
