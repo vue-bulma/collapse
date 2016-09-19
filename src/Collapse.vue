@@ -17,12 +17,12 @@ export default {
     }
   },
 
-  events: {
-    ['on-' + 'item-open'] (index) {
+  methods: {
+    openByIndex (index) {
       if (this.accordion) {
         this.$collapseItems.forEach((item, i) => {
           if (i !== index) {
-            item.selected = false
+            item.isActived = false
           }
         })
       }
