@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "peerDependencies": {
     "bulma": "^0.2",
+    "animejs": "^1.1.1",
     "vue": ">=2.0.0-beta.0"
   },
   "scripts": {},
