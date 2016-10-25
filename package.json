@@ -1,15 +1,14 @@
 {
   "name": "vue-bulma-collapse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collapse component for Vue Bulma",
-  "main": "src/index.js",
-  "peerDependencies": {
-    "bulma": "^0.2",
-    "animejs": "^1.1.1",
-    "vue": ">=2.0.0-beta.0"
+  "repository": "vue-bulma/collapse",
+  "license": "MIT",
+  "author": {
+    "name": "Fangdun Cai",
+    "email": "cfddream@gmail.com",
+    "url": "fundon.me"
   },
-  "scripts": {},
-  "repository": "git+https://github.com/vue-bulma/collapse.git",
   "keywords": [
     "vue",
     "bulma",
@@ -18,6 +17,10 @@
     "vue-bulma-collapse",
     "collapse"
   ],
-  "author": "Fangdun Cai <cfddream@gmail.com>",
-  "license": "MIT"
+  "main": "src/index.js",
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "animejs": ">=1.1",
+    "vue": ">=2"
+  }
 }

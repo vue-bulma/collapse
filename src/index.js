@@ -1,7 +1,7 @@
-import Collapse from './Collapse'
-import Item from './Item'
+const Collapse = require('./Collapse')
+const Item = require('./Item')
 
-export {
+module.exports = {
   Collapse,
   Item
 }
