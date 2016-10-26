@@ -1,6 +1,6 @@
 {
   "name": "vue-bulma-collapse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Collapse component for Vue Bulma",
   "repository": "vue-bulma/collapse",
   "license": "MIT",
@@ -20,7 +20,9 @@
   "main": "src/index.js",
   "peerDependencies": {
     "bulma": ">=0.2",
-    "animejs": ">=1.1",
     "vue": ">=2"
+  },
+  "dependencies": {
+    "animejs": "1"
   }
 }
