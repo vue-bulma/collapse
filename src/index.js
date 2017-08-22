@@ -1,2 +1,7 @@
-exports.Collapse = require('./Collapse')
-exports.Item = require('./Item')
+import Collapse from './Collapse'
+import Item from './Item'
+
+export {
+  Collapse,
+  Item
+}
