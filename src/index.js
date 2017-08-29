@@ -1,2 +1,2 @@
-exports.Collapse = require('./Collapse')
-exports.Item = require('./Item')
+exports.Collapse = require('./Collapse.vue')
+exports.Item = require('./Item.vue')
